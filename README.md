@@ -1,4 +1,4 @@
-# Mohammed Ibrahim A I — Portfolio
+# Mohammed Ibrahim A I  Portfolio
 
 A modern, minimal portfolio website built to showcase my skills as a **Web Developer**, **IT Support Executive**, and **BCA Student**.
 
